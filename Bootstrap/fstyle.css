@@ -1,0 +1,226 @@
+
+.toparea{
+        text-align: center;
+}
+.toparea a{
+    padding: 5px;
+}
+.bar a{
+    color:rgb(1, 75, 64);
+    font-size: 25px;
+}
+.mainarea h1{
+    color: white;
+    width:500px ;
+    font-size: 60px;
+    margin: -550px 0 0  700px;
+}
+.mainarea p{
+    color: white;
+    width:500px ;
+    font-size: 20px;
+    margin: -330px 0 0  700px;
+}
+.mainarea button{
+    width: 100px;
+    height: 40px;
+    margin:-230px 0 0  710px ;
+}
+.mainarea a{
+    width: 130px;
+    height: 40px;
+    color: white;
+    text-decoration: none;
+    margin:-225px 0 0  820px ;
+}
+.mainarea i{
+    width: 40px;
+    color: white;
+    margin:-235px 0 0 950px ;
+    padding:0;
+    font-size: 30px;
+}
+.Plant h2{
+    color:rgb(1, 75, 64);
+    margin:30px 0;
+}
+.Plant a{
+    width:80px ;
+    color:rgb(1, 75, 64);
+    text-decoration:none;
+    margin: -60px 0 0 1050px;
+}
+.Plant img{
+    width: 356px;
+    margin:0;
+    padding: 0;
+}
+.row-last{
+    width:80px ;
+    padding:10px ;
+    margin:20px 0 40px 550px ;
+}
+.Search input{
+    margin:-105px 0 0 200px ;
+    width: 700px;
+    height:45px;
+}
+.Search a{
+    color: white;
+    margin:-115px 0 0 -770px ;
+    font-size: 40px;
+    width: 40px;
+    height:40px;
+}
+.Search a:last-child{
+    margin:-115px 0 0 730px ;
+    width: 50px;
+}
+.midarea h2{
+    color:rgb(1, 75, 64);
+    margin:70px 0 30px 0;
+}
+.midarea a{
+    width:80px ;
+    color:rgb(1, 75, 64);
+    text-decoration:none;
+    margin: -60px 0 0 1050px;
+}
+.midarea img{
+    width: 261px;
+    margin:0;
+    padding: 0;
+}
+.middle h2{
+    color:rgb(1, 75, 64);
+    margin:70px 0 30px 0;
+}
+.middle img{
+    width: 356px;
+    margin:0 0 80px 0;
+    padding: 0;
+}
+.lastsecond h1{
+    width:auto ;
+    color: white;
+    margin: -350px 0 0 350px;
+}
+.lastsecond p{
+    width: auto;
+    color: white;
+    margin: -280px 0 0 450px;
+}
+.lastsecond a{
+    width: auto;
+    color: white;
+    margin: -235px 0 0 470px;
+    text-decoration: none;
+}
+.lastsecond a:last-child{
+    width: auto;
+    color: white;
+    margin: -212px 0 0 470px;
+    text-decoration: none;
+}
+.foot{
+    padding: 80px 0 0 0;
+}
+.first img{
+    margin:-820px 0 0 120px;
+}
+.first p{
+    width: 340px;
+    margin: -370px 0 0 120px;
+    font-size: 12px;
+    color: white;
+}
+.first h4{
+    margin: 30px 0 0 120px;
+    color: white;
+}
+.first button{
+    color: white;
+    font-size:25px;
+}
+.first .input-group{
+    margin:10px 0 0 120px ;
+    opacity: 0.4;
+    width: 250px;
+    height: 40px;
+}
+.made h5{
+    width:180px;
+    color: white;
+    padding:40px 0 0 0;
+    font-size: 30px;
+    margin: -450px 0 0 180px;
+}
+.made ul{
+    width: 180px;
+    margin: 0 0 0 150px;
+}
+.made a{
+    color: white;
+    font-size:15px;
+    line-height: 40px;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0px 0 0 0;
+}
+.list h5{
+    color: white;
+    padding:40px 0 0 0;
+    font-size: 30px;
+    margin: -450px 0 0 120px;
+}
+.list ul{
+    margin: 0 0 0 90px;
+}
+.list a{
+    color: white;
+    font-size: 15px;
+    line-height: 40px;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0px 0 0 0;
+}
+.last h5{
+    color: white;
+    padding:40px 0 0 0;
+    font-size: 30px;
+    margin: -450px 0 0 0px;
+}
+.last ion-icon{
+    color: white;
+    font-size:35px;
+}
+.last p{
+    color: white;
+    padding:0px 0;
+    font-size: 13px;
+    margin:-40px 0 -20px 40px;
+}
+.last li{
+    list-style-type: none;
+    padding: 0 0 20px 0;
+}
+.last a{
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    margin:0 0 0 43px;
+}
+.form-control:last-child{
+    width: 815px;
+    opacity:0.4 ;
+    height: 50px;
+    margin: -110px 0 0 120px;
+}
+.foot .end{
+    font-size: 30px;
+    margin:-110px 0 0 0;
+}
+.end a{
+    color:white;
+
+}
